@@ -591,6 +591,663 @@ Trichophyton tonsurans     | 322                     | 70.112        | 21.916   
 
 Ассоциируется 20 кластеров ˚‧º·(˚ ˃̣̣̥᷄⌓˂̣̣̥᷅ )‧º·˚
 
+Таблица с функциями:
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Кластер</th>
+    <th class="tg-0pky">Число генов</th>
+    <th class="tg-0pky">Вид</th>
+    <th class="tg-0pky">Белок</th>
+    <th class="tg-0pky">Ген</th>
+    <th class="tg-0pky">Функция</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" rowspan="5">0</td>
+    <td class="tg-0pky" rowspan="5">5</td>
+    <td class="tg-0pky">Trichophyton equinum</td>
+    <td class="tg-0pky">EGE01670.1</td>
+    <td class="tg-0pky">TEQG_00716</td>
+    <td class="tg-0pky">UTP-glucose-1-phosphate uridylyltransferase</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton interdigitale</td>
+    <td class="tg-0pky">KAG8205135.1</td>
+    <td class="tg-0pky">GTR04_7485</td>
+    <td class="tg-0pky">UTP--glucose-1-phosphate uridylyltransferase</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton rubrum</td>
+    <td class="tg-0pky">EGD90648.1</td>
+    <td class="tg-0pky">TERG_06874</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton tonsurans</td>
+    <td class="tg-0pky">EGD97204.1</td>
+    <td class="tg-0pky">TESG_04618</td>
+    <td class="tg-0pky">UTP-glucose-1-phosphate uridylyltransferase</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton verrucosum</td>
+    <td class="tg-0pky">EFE37474.1</td>
+    <td class="tg-0pky">TRV_07876</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="5">1</td>
+    <td class="tg-0pky" rowspan="5">5</td>
+    <td class="tg-0pky">Trichophyton equinum</td>
+    <td class="tg-0pky">EGE09314.1</td>
+    <td class="tg-0pky">TEQG_08263</td>
+    <td class="tg-0pky">MFS multidrug transporter</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton interdigitale</td>
+    <td class="tg-0pky">KAG8205273.1</td>
+    <td class="tg-0pky">GTR04_7343</td>
+    <td class="tg-0pky">putative mfs-multidrug-resistance transporter</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton rubrum</td>
+    <td class="tg-0pky">EGD92121.1</td>
+    <td class="tg-0pky">TERG_08336</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton tonsurans</td>
+    <td class="tg-0pky">EGD95590.1</td>
+    <td class="tg-0pky">TESG_03062</td>
+    <td class="tg-0pky">MFS multidrug transporter</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton verrucosum</td>
+    <td class="tg-0pky">EFE42601.1</td>
+    <td class="tg-0pky">TRV_02646</td>
+    <td class="tg-0pky">MFS multidrug transporter, putative</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="5">2</td>
+    <td class="tg-0pky" rowspan="5">5</td>
+    <td class="tg-0pky">Trichophyton equinum</td>
+    <td class="tg-0pky">EGE06303.1</td>
+    <td class="tg-0pky">TEQG_05306</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton interdigitale</td>
+    <td class="tg-0pky">KAG8206065.1</td>
+    <td class="tg-0pky">GTR04_6554</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton rubrum</td>
+    <td class="tg-0pky">EGD88510.1</td>
+    <td class="tg-0pky">TERG_04757</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton tonsurans</td>
+    <td class="tg-0pky">EGD99083.1</td>
+    <td class="tg-0pky">TESG_06439</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton verrucosum</td>
+    <td class="tg-0pky">EFE37966.1</td>
+    <td class="tg-0pky">TRV_07371</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="5">3</td>
+    <td class="tg-0pky" rowspan="5">5</td>
+    <td class="tg-0pky">Trichophyton equinum</td>
+    <td class="tg-0pky">EGE09094.1</td>
+    <td class="tg-0pky">TEQG_08026</td>
+    <td class="tg-0pky">endochitinase</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton interdigitale</td>
+    <td class="tg-0pky">KAG8206602.1</td>
+    <td class="tg-0pky">GTR04_6007</td>
+    <td class="tg-0pky">Endochitinase</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton rubrum</td>
+    <td class="tg-0pky">EGD87370.1</td>
+    <td class="tg-0pky">TERG_03618</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton tonsurans</td>
+    <td class="tg-0pky">EGD93778.1</td>
+    <td class="tg-0pky">TESG_01312</td>
+    <td class="tg-0pky">endochitinase</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton verrucosum</td>
+    <td class="tg-0pky">EFE41775.1</td>
+    <td class="tg-0pky">TRV_03457</td>
+    <td class="tg-0pky">class V chitinase, putative</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="5">4</td>
+    <td class="tg-0pky" rowspan="5">5</td>
+    <td class="tg-0pky">Trichophyton equinum</td>
+    <td class="tg-0pky">EGE02762.1</td>
+    <td class="tg-0pky">TEQG_01799</td>
+    <td class="tg-0pky">GYF domain-containing protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton interdigitale</td>
+    <td class="tg-0pky">KAG8206877.1</td>
+    <td class="tg-0pky">GTR04_5731</td>
+    <td class="tg-0pky">GYF domain-containing protein mpd2</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton rubrum</td>
+    <td class="tg-0pky">EGD87321.1</td>
+    <td class="tg-0pky">TERG_03566</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton tonsurans</td>
+    <td class="tg-0pky">EGD93728.1</td>
+    <td class="tg-0pky">TESG_01261</td>
+    <td class="tg-0pky">GYF domain-containing protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton verrucosum</td>
+    <td class="tg-0pky">EFE37895.1</td>
+    <td class="tg-0pky">TRV_07441</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="5">5</td>
+    <td class="tg-0pky" rowspan="5">5</td>
+    <td class="tg-0pky">Trichophyton equinum</td>
+    <td class="tg-0pky">EGE08093.1</td>
+    <td class="tg-0pky">TEQG_07068</td>
+    <td class="tg-0pky">DNA-directed RNA polymerase I and III polypeptide</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton interdigitale</td>
+    <td class="tg-0pky">KAG8206931.1</td>
+    <td class="tg-0pky">GTR04_5695</td>
+    <td class="tg-0pky">DNA-directed RNA polymerase I and III polypeptide</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton rubrum</td>
+    <td class="tg-0pky">EGD90391.1</td>
+    <td class="tg-0pky">TERG_06619</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton tonsurans</td>
+    <td class="tg-0pky">EGE00493.1</td>
+    <td class="tg-0pky">TESG_07798</td>
+    <td class="tg-0pky">DNA-directed RNA polymerase I and III</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton verrucosum</td>
+    <td class="tg-0pky">EFE41378.1</td>
+    <td class="tg-0pky">TRV_03890</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="5">6</td>
+    <td class="tg-0pky" rowspan="5">5</td>
+    <td class="tg-0pky">Trichophyton equinum</td>
+    <td class="tg-0pky">EGE06024.1</td>
+    <td class="tg-0pky">TEQG_05138</td>
+    <td class="tg-0pky">CAMK/CAMKL/MARK protein kinase</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton interdigitale</td>
+    <td class="tg-0pky">KAG8206988.1</td>
+    <td class="tg-0pky">GTR04_5637</td>
+    <td class="tg-0pky">Camk camkl protein kinase</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton rubrum</td>
+    <td class="tg-0pky">EGD85354.2</td>
+    <td class="tg-0pky">TERG_01629</td>
+    <td class="tg-0pky">CAMK/CAMKL/MARK protein kinase</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton tonsurans</td>
+    <td class="tg-0pky">EGD96747.1</td>
+    <td class="tg-0pky">TESG_04178</td>
+    <td class="tg-0pky">CAMK/CAMKL/MARK protein kinase</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton verrucosum</td>
+    <td class="tg-0pky">EFE42462.1</td>
+    <td class="tg-0pky">TRV_02770</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="5">7</td>
+    <td class="tg-0pky" rowspan="5">5</td>
+    <td class="tg-0pky">Trichophyton equinum</td>
+    <td class="tg-0pky">EGE03683.1</td>
+    <td class="tg-0pky">TEQG_02714</td>
+    <td class="tg-0pky">argininosuccinate synthase</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton interdigitale</td>
+    <td class="tg-0pky">KAG8207052.1</td>
+    <td class="tg-0pky">GTR04_5577</td>
+    <td class="tg-0pky">Argininosuccinate synthetase, catalytic/multimerization domain body</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton rubrum</td>
+    <td class="tg-0pky">EGD84470.2</td>
+    <td class="tg-0pky">TERG_00748</td>
+    <td class="tg-0pky">argininosuccinate synthase</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton tonsurans</td>
+    <td class="tg-0pky">EGD94766.1</td>
+    <td class="tg-0pky">TESG_02270</td>
+    <td class="tg-0pky">argininosuccinate synthase</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton verrucosum</td>
+    <td class="tg-0pky">EFE44729.1</td>
+    <td class="tg-0pky">TRV_00478</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="5">8</td>
+    <td class="tg-0pky" rowspan="5">5</td>
+    <td class="tg-0pky">Trichophyton equinum</td>
+    <td class="tg-0pky">EGE05162.1</td>
+    <td class="tg-0pky">TEQG_04179</td>
+    <td class="tg-0pky">nuclear pore protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton interdigitale</td>
+    <td class="tg-0pky">KAG8207074.1</td>
+    <td class="tg-0pky">GTR04_5551</td>
+    <td class="tg-0pky">Meiotically up-regulated gene 87 protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton rubrum</td>
+    <td class="tg-0pky">EGD92340.2</td>
+    <td class="tg-0pky">TERG_08555</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton tonsurans</td>
+    <td class="tg-0pky">EGD94322.1</td>
+    <td class="tg-0pky">TESG_01842</td>
+    <td class="tg-0pky">nuclear pore protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton verrucosum</td>
+    <td class="tg-0pky">EFE44051.1</td>
+    <td class="tg-0pky">TRV_01179</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="5">9</td>
+    <td class="tg-0pky" rowspan="5">5</td>
+    <td class="tg-0pky">Trichophyton equinum</td>
+    <td class="tg-0pky">EGE04844.1</td>
+    <td class="tg-0pky">TEQG_04017</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton interdigitale</td>
+    <td class="tg-0pky">KAG8207086.1</td>
+    <td class="tg-0pky">GTR04_5542</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton rubrum</td>
+    <td class="tg-0pky">EGD88995.2</td>
+    <td class="tg-0pky">TERG_05241</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton tonsurans</td>
+    <td class="tg-0pky">EGE00225.1</td>
+    <td class="tg-0pky">TESG_07541</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Trichophyton verrucosum</td>
+    <td class="tg-0pky">EFE42287.1</td>
+    <td class="tg-0pky">TRV_02953</td>
+    <td class="tg-0pky">conserved hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" rowspan="5">10</td>
+    <td class="tg-0pky" rowspan="5">5</td>
+    <td class="tg-0pky">Trichophyton equinum</td>
+    <td class="tg-0pky">EGE02289.1</td>
+    <td class="tg-0pky">TEQG_01328</td>
+    <td class="tg-0pky">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton interdigitale</td>
+    <td class="tg-0lax">KAG8207113.1</td>
+    <td class="tg-0lax">GTR04_5497</td>
+    <td class="tg-0lax">Zn 2cys6 transcription factor protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton rubrum</td>
+    <td class="tg-0lax">EGD88797.1</td>
+    <td class="tg-0lax">TERG_05047</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton tonsurans</td>
+    <td class="tg-0lax">EGD98090.1</td>
+    <td class="tg-0lax">TESG_05479</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton verrucosum</td>
+    <td class="tg-0lax">EFE43513.1</td>
+    <td class="tg-0lax">TRV_01723</td>
+    <td class="tg-0lax">conserved hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="5">11</td>
+    <td class="tg-0lax" rowspan="5">5</td>
+    <td class="tg-0lax">Trichophyton equinum</td>
+    <td class="tg-0lax">EGE02102.1</td>
+    <td class="tg-0lax">TEQG_01141</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton interdigitale</td>
+    <td class="tg-0lax">KAG8207801.1</td>
+    <td class="tg-0lax">GTR04_4819</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton rubrum</td>
+    <td class="tg-0lax">EGD88607.1</td>
+    <td class="tg-0lax">TERG_08837</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton tonsurans</td>
+    <td class="tg-0lax">EGE00647.1</td>
+    <td class="tg-0lax">TESG_07946</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton verrucosum</td>
+    <td class="tg-0lax">EFE42275.1</td>
+    <td class="tg-0lax">TRV_02975</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="5">12</td>
+    <td class="tg-0lax" rowspan="5">5</td>
+    <td class="tg-0lax">Trichophyton equinum</td>
+    <td class="tg-0lax">EGE06227.1</td>
+    <td class="tg-0lax">TEQG_05232</td>
+    <td class="tg-0lax">pol II transcription elongation factor subunit Cdc73</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton interdigitale</td>
+    <td class="tg-0lax">KAG8207809.1</td>
+    <td class="tg-0lax">GTR04_4790</td>
+    <td class="tg-0lax">Accessory factor associated with RNA polymerase II</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton rubrum</td>
+    <td class="tg-0lax">EGD88592.1</td>
+    <td class="tg-0lax">TERG_04838</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton tonsurans</td>
+    <td class="tg-0lax">EGD99158.1</td>
+    <td class="tg-0lax">TESG_06512</td>
+    <td class="tg-0lax">pol II transcription elongation factor subunit Cdc73</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton verrucosum</td>
+    <td class="tg-0lax">EFE43034.1</td>
+    <td class="tg-0lax">TRV_02227</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="5">13</td>
+    <td class="tg-0lax" rowspan="5">6</td>
+    <td class="tg-0lax">Trichophyton equinum</td>
+    <td class="tg-0lax">EGE07917.1</td>
+    <td class="tg-0lax">TEQG_06949</td>
+    <td class="tg-0lax">lysophospholipase</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton interdigitale</td>
+    <td class="tg-0lax">KAG8207933.1</td>
+    <td class="tg-0lax">GTR04_4671</td>
+    <td class="tg-0lax">Lysophospholipase</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton rubrum</td>
+    <td class="tg-0lax">EGD89280.2,KFL61983.1</td>
+    <td class="tg-0lax">TERG_05522</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton tonsurans</td>
+    <td class="tg-0lax">EGD94165.1</td>
+    <td class="tg-0lax">TESG_01690</td>
+    <td class="tg-0lax">lysophospholipase</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton verrucosum</td>
+    <td class="tg-0lax">EFE45094.1</td>
+    <td class="tg-0lax">TRV_00119</td>
+    <td class="tg-0lax">lysophospholipase Plb2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="5">14<br><br><br></td>
+    <td class="tg-0lax" rowspan="5">6</td>
+    <td class="tg-0lax">Trichophyton equinum</td>
+    <td class="tg-0lax">EGE04513.1</td>
+    <td class="tg-0lax">TEQG_03384</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton interdigitale</td>
+    <td class="tg-0lax">KAG8208098.1</td>
+    <td class="tg-0lax">GTR04_4535</td>
+    <td class="tg-0lax">Glycosyl hydrolase 3 N terminal domain family protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton rubrum</td>
+    <td class="tg-0lax">EGD90308.1,KFL62371.1</td>
+    <td class="tg-0lax">TERG_06535</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton tonsurans</td>
+    <td class="tg-0lax">EGD96298.1</td>
+    <td class="tg-0lax">TESG_03751</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton verrucosum</td>
+    <td class="tg-0lax">EFE39292.1</td>
+    <td class="tg-0lax">TRV_06017</td>
+    <td class="tg-0lax">conserved hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="5">15</td>
+    <td class="tg-0lax" rowspan="5">5</td>
+    <td class="tg-0lax">Trichophyton equinum</td>
+    <td class="tg-0lax">EGE06256.1</td>
+    <td class="tg-0lax">TEQG_08722</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton interdigitale</td>
+    <td class="tg-0lax">KAG8208312.1</td>
+    <td class="tg-0lax">GTR04_4310</td>
+    <td class="tg-0lax">ATP-binding cassette sub-family protein G member 2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton rubrum</td>
+    <td class="tg-0lax">EGD88561.2</td>
+    <td class="tg-0lax">TERG_04806</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton tonsurans</td>
+    <td class="tg-0lax">EGD99128.1</td>
+    <td class="tg-0lax">TESG_06483</td>
+    <td class="tg-0lax">ABC transporter</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton verrucosum</td>
+    <td class="tg-0lax">EFE39665.1</td>
+    <td class="tg-0lax">TRV_05637</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="5">16</td>
+    <td class="tg-0lax" rowspan="5">5</td>
+    <td class="tg-0lax">Trichophyton equinum</td>
+    <td class="tg-0lax">EGE06532.1</td>
+    <td class="tg-0lax">TEQG_05532</td>
+    <td class="tg-0lax">ste/ste11/ste11-unclassified protein kinase</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton interdigitale</td>
+    <td class="tg-0lax">KAG8208350.1</td>
+    <td class="tg-0lax">GTR04_4273</td>
+    <td class="tg-0lax">Mitogen-activated protein kinase kinase kinase</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton rubrum</td>
+    <td class="tg-0lax">EGD83924.1</td>
+    <td class="tg-0lax">TERG_00207</td>
+    <td class="tg-0lax">STE/STE11/BCK1 protein kinase</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton tonsurans</td>
+    <td class="tg-0lax">EGD98334.1</td>
+    <td class="tg-0lax">TESG_05713</td>
+    <td class="tg-0lax">ste/ste11/ste11-unclassified protein kinase</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton verrucosum</td>
+    <td class="tg-0lax">EFE43528.1</td>
+    <td class="tg-0lax">TRV_01697</td>
+    <td class="tg-0lax">MAP kinase kinase kinase (Bck1), putative</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="5">17</td>
+    <td class="tg-0lax" rowspan="5">5</td>
+    <td class="tg-0lax">Trichophyton equinum</td>
+    <td class="tg-0lax">EGE07236.1</td>
+    <td class="tg-0lax">TEQG_06309</td>
+    <td class="tg-0lax">NCS1 nucleoside transporter</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton interdigitale</td>
+    <td class="tg-0lax">KAG8208362.1</td>
+    <td class="tg-0lax">GTR04_4253</td>
+    <td class="tg-0lax">Nucleobase cation symporter-1, NCS1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton rubrum</td>
+    <td class="tg-0lax">EGD89432.1</td>
+    <td class="tg-0lax">TERG_05674</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton tonsurans</td>
+    <td class="tg-0lax">EGD98976.1</td>
+    <td class="tg-0lax">TESG_06340</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton verrucosum</td>
+    <td class="tg-0lax">EFE44898.1</td>
+    <td class="tg-0lax">TRV_00271</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="5">18</td>
+    <td class="tg-0lax" rowspan="5">5</td>
+    <td class="tg-0lax">Trichophyton equinum</td>
+    <td class="tg-0lax">EGE04703.1</td>
+    <td class="tg-0lax">TEQG_03877</td>
+    <td class="tg-0lax">pre-mRNA cleavage complex II protein Clp1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton interdigitale</td>
+    <td class="tg-0lax">KAG8211361.1</td>
+    <td class="tg-0lax">GTR04_1200</td>
+    <td class="tg-0lax">mRNA cleavage and polyadenylation factor CLP1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton rubrum</td>
+    <td class="tg-0lax">EGD88844.2</td>
+    <td class="tg-0lax">TERG_05093</td>
+    <td class="tg-0lax">protein Clp1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton tonsurans</td>
+    <td class="tg-0lax">EGD97576.1</td>
+    <td class="tg-0lax">TESG_04982</td>
+    <td class="tg-0lax">mRNA cleavage factor complex II protein Clp1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton verrucosum</td>
+    <td class="tg-0lax">EFE42243.1</td>
+    <td class="tg-0lax">TRV_03023</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="5">19</td>
+    <td class="tg-0lax" rowspan="5">5</td>
+    <td class="tg-0lax">Trichophyton equinum</td>
+    <td class="tg-0lax">EGE08487.1</td>
+    <td class="tg-0lax">TEQG_07374</td>
+    <td class="tg-0lax">rho guanyl nucleotide exchange factor</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton interdigitale</td>
+    <td class="tg-0lax">KAG8212362.1</td>
+    <td class="tg-0lax">GTR04_0189</td>
+    <td class="tg-0lax">Rho guanyl nucleotide exchange factor</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton rubrum</td>
+    <td class="tg-0lax">EGD85957.2</td>
+    <td class="tg-0lax">TERG_02224</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton tonsurans</td>
+    <td class="tg-0lax">EGE00815.1</td>
+    <td class="tg-0lax">TESG_08153</td>
+    <td class="tg-0lax">hypothetical protein</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Trichophyton verrucosum</td>
+    <td class="tg-0lax">EFE40441.1</td>
+    <td class="tg-0lax">TRV_04835</td>
+    <td class="tg-0lax">Rho guanyl nucleotide exchange factor, putative</td>
+  </tr>
+</tbody>
+</table>
+
 ![0](data/pictures/quadro/cl/quad-gene_0.png)
 ![1](data/pictures/quadro/cl/quad-gene_1.png)
 ![2](data/pictures/quadro/cl/quad-gene_2.png)
@@ -611,6 +1268,8 @@ Trichophyton tonsurans     | 322                     | 70.112        | 21.916   
 ![17](data/pictures/quadro/cl/quad-gene_17.png)
 ![18](data/pictures/quadro/cl/quad-gene_18.png)
 ![19](data/pictures/quadro/cl/quad-gene_19.png)
+
+Интересно наблюдать, что на самом деле, гены из одного кластера имеют идинаковые или схожие функции. Значит, кластеризация получилась правильно.
 
 Исходные файлы и выравнивания находятся в ```data/quadro_clusters_align```.
 
