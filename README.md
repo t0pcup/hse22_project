@@ -4,11 +4,13 @@
 
 _Все закоммитить не получалось, поэтому часть файлов тут:_ [Google Drive](https://drive.google.com/drive/folders/1NW5ceMD-ih3LqtbeVqI9Si6CYSH1do5h?usp=sharing)
 
-Царство: Fungi
+---
 
-Таксон: Ascomycetes
+**Царство:** Fungi
 
-Род: Trichophyton
+**Таксон:** Ascomycetes
+
+**Род:** Trichophyton
 
 Organism name              | Assembly level | Size (Mb) | GC%  | Scaffolds
 :-------------------------:|:--------------:|:---------:|:----:|:---------:
