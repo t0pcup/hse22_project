@@ -2,6 +2,8 @@
 
 Код: [Google Colaboratory](https://colab.research.google.com/drive/1tgZfFJiV4eQ1YMJ1tQzrrg3YtrPfwyJa?usp=sharing)
 
+_Все закоммитить не получалось, поэтому часть файлов тут:_ [Google Drive](https://drive.google.com/drive/folders/1NW5ceMD-ih3LqtbeVqI9Si6CYSH1do5h?usp=sharing)
+
 Царство: Fungi
 
 Таксон: Ascomycetes
@@ -106,15 +108,6 @@ Trichophyton tonsurans     | ![t](data/pictures/share_hist_t.png)
 
 Всего нашлось 5278 кластеров. На промотеры попало 4270. Из них выбраны 10 с самым высоким ZH-Score (в среднем по кластеру):
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -608,7 +601,6 @@ Trichophyton tonsurans     | 322                     | 70.112        | 21.916   
 ![7](data/pictures/quadro/cl/quad-gene_7.png)
 ![8](data/pictures/quadro/cl/quad-gene_8.png)
 ![9](data/pictures/quadro/cl/quad-gene_9.png)
-
 ![10](data/pictures/quadro/cl/quad-gene_10.png)
 ![11](data/pictures/quadro/cl/quad-gene_11.png)
 ![12](data/pictures/quadro/cl/quad-gene_12.png)
